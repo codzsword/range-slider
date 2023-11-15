@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Range Slider</title>
+</head>
+
+<body>
+    <h1>Range Slider Using HTML-CSS-JS</h1>
+    <div class="double-slider-box">
+        <div class="price-slider">
+            <h3>$100</h3>
+            <div class="input-wrapper">
+                <input type="range" name="min_val" class="range-slide" min="100" max="5000" value="1000"
+                    oninput="slidePrice()">
+                <div class="tooltip"></div>
+            </div>
+            <h3>$5000</h3>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
