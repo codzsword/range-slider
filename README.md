@@ -1,4 +1,4 @@
-![Logo]([https://raw.githubusercontent.com/codzsword/login-form/main/Login%20Form%20Demo.png](https://raw.githubusercontent.com/codzsword/range-slider/main/Range%20Slider%20Demo.png))
+![Logo](https://raw.githubusercontent.com/codzsword/range-slider/main/Range%20Slider%20Demo.png)
 
 # Range Sliders with HTML, CSS, and JavaScript
 
